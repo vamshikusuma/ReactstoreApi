@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+}
+.image{
+    width: 275px;
+    height: 275px;
+}
+
+.component-inside{
+    width:275px;
+    height: 400px;
+    padding: 25px;
+    border-radius: 5px; 
+    box-shadow: 5px 5px 10px rgb(84, 83, 83);
+    cursor: pointer;
+}
+.head{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 25px;
+    padding: 50px;
+    gap: 20px
+
+
+}
