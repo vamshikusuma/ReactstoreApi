@@ -5,24 +5,27 @@
     
 }
 .image{
-    width: 275px;
-    height: 275px;
+    width: 100px;
 }
 
 .component-inside{
-    width:275px;
-    height: 400px;
-    padding: 25px;
+
+    width:120px;
+    height: 230px;
+padding: 15px;
     border-radius: 5px; 
     box-shadow: 5px 5px 10px rgb(84, 83, 83);
     cursor: pointer;
+  font-size: small;
 }
+
 .head{
+
     display: flex;
     flex-wrap: wrap;
-    margin: 25px;
-    padding: 50px;
+    margin: 15px;
+    padding: 15px;
     gap: 20px
 
-
+    
 }
